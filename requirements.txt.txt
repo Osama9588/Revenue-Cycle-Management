@@ -1,0 +1,5 @@
+easyocr
+groq
+pymongo
+fastapi
+uvicorn
