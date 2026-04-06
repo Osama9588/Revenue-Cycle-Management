@@ -3,3 +3,6 @@ groq
 pymongo
 fastapi
 uvicorn
+dnspython
+pandas
+python-multipart
